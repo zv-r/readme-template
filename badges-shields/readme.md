@@ -1,21 +1,24 @@
-## Como usar os Badges?
+## Como usar os badges shields?
+
 1. Pegue a URL
-2. Cria a img ``` <img src="BadgeURLAqui" /> ``` ou ``` ![image](BadgeURLAqui) ```
-3. Copie e cole no seu perfil
+2. Cria a tag img `<img src="BadgeURLAqui" />` ou `![image](BadgeURLAqui)`
+3. Copie e cole no seu readme
 
 ## Menu
-- [Como usar os Badges?](#como-usar-os-badges)
+
+- [Como usar os badges shields?](#como-usar-os-badges-shields)
 - [Menu](#menu)
 - [Contato](#contato)
 - [Social](#social)
 - [Blog](#blog)
 - [Streaming](#streaming)
+- [IDES](#ides)
 - [Skills](#skills)
 - [Jogos](#jogos)
 
 ## Contato
 
-Badge | URL
+| Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
@@ -24,7 +27,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 
-## Social 
+## Social
 
 Badge | URL
 ------------ | -------------
@@ -63,6 +66,18 @@ Badge | URL
 <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" /> | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white`
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
+
+---
+
+## IDES
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000"> | `https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000`
+<img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> | `https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000`
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">| `https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC`
+
+---
 
 ## Skills
 
@@ -182,3 +197,27 @@ Badge | URL
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white`
 <img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+
+---
+
+## Outros tipos de Badges
+
+Definimos o estilo através do parâmetro *style=* seguido do estilo escolhido. Aqui tem uma lista dos estilos disponíveis:
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | Flat (padrão)
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | Flat square
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" /> | Plastic
+
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | For the badge
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white" /> | Social
+
+---
+
+
+- [Badges shields](https://github.com/badges/shields)
+
+[def]: #como-usar-os-badges-shields
